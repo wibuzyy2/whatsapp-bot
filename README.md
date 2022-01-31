@@ -22,7 +22,7 @@
 
 
 ## DEPLOY HEROKUAPP
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inirey/whatsapp-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wibuzyy2/whatsapp-bot/)
 
 ## ADD BUILDPACK HEROKU
 * heroku/nodejs
